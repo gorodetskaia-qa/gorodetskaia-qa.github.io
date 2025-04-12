@@ -13,19 +13,26 @@ QA Engineer/Тестировщик ПО
 Мой номер телефона: 89047683796
 E-mail: kristinkanat@gmail.com
   3 страница:
-Мой стек:
-DevTools
-Postman
-Swagger
-REST API, SOAP
-JIRA
-Kibana
-Figma
+Мои инструменты:
+DevTools - тестирование front-части веб-приложений
+Postman - тестирование API и написание автотестов
+Swagger - для документации API
+Yandex Tracker/JIRA - для трекинга задач
+Test IT - для написания тест-кейсов
+Kibana/Sentry - для просмотра логов
+Figma - тестирование интерфейса пользователя
+SQL - для просмотра БД и написания SQL-запросов
 
-4 страница:
-SQL - 70%
-Charles - 80%
-GIT - 80%
-Apache Kafka -
-HTML, CSS -
-Android Studio -
+Мои навыки:
+Agile-90%
+REST API/SOAP-75%
+HTML,CSS-80%
+PostgreSQL -60%
+JSON/XML-70%
+Android Studio - 70%
+Charles-80%
+Docker -60%
+
+
+
+
